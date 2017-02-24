@@ -1,1 +1,1 @@
-# genesis-theme
+# everypraise-theme
