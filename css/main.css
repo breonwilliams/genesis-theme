@@ -678,7 +678,7 @@ Thumbnail
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	opacity: 0;
-	background-color: rgba(41, 143, 235,.6);
+	background-color: rgba(86, 63, 107,.6);
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -1958,7 +1958,7 @@ ul.post_tag li {
 	margin: 0 10px 0 0;
 }
 ul.post_tag li a {
-	border: 2px solid rgb(41, 143, 235);
+	border: 2px solid rgb(86, 63, 107);
 	font-family:'Montserrat' !important;
 	padding: 4px 8px;
 	font-size: 10px;
@@ -2761,7 +2761,7 @@ img.rounded, .rounded {
 .social-icon a:hover,
 .social-icon a:focus,
 .social-icon a:active {
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 }
 
 @media (max-width:767px) {
@@ -2843,7 +2843,7 @@ h4.media-heading {
 	color:#3b3b3b;
 }
 .media-heading > .user:hover, .media-heading > .user:focus, .media-heading > .user:active {
-	color:rgb(41, 143, 235);
+	color:rgb(86, 63, 107);
 }
 .media > .pull-left {
 	margin-right:15px;
@@ -2910,7 +2910,7 @@ Upcoming Events
 	border-bottom: solid 1px #222;
 }
 .event-date {
-	background: rgb(41, 143, 235);
+	background: rgb(86, 63, 107);
 	color: #fff;
 	margin-top: 6px;
 	padding: 0 5px;
@@ -2987,7 +2987,7 @@ img {
 	color: #423967;
 }
 .client-single h3 a:hover {
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 }
 .client-avi {
 	float: left;
@@ -3059,7 +3059,7 @@ Seminar Dates
 	line-height: 30px;
 	text-transform: uppercase;
 	color: #fff;
-	background-color: rgb(41, 143, 235);
+	background-color: rgb(86, 63, 107);
 }
 .date-list time .date {
 	display: block;
@@ -3244,7 +3244,7 @@ Star Rating
 
 .rating > input:checked ~ label, /* show gold star when clicked */
 .rating:not(:checked) > label:hover, /* hover current star */
-.rating:not(:checked) > label:hover ~ label { color: rgb(41, 143, 235);  } /* hover previous stars in list */
+.rating:not(:checked) > label:hover ~ label { color: rgb(86, 63, 107);  } /* hover previous stars in list */
 
 .rating > input:checked + label:hover, /* hover current star when changing rating */
 .rating > input:checked ~ label:hover,
@@ -3274,7 +3274,7 @@ Member Activity Comments
 	width: 100%;
 	padding: 10px;
 	vertical-align: top;
-	border: solid 1px rgb(41, 143, 235);
+	border: solid 1px rgb(86, 63, 107);
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
@@ -3355,7 +3355,7 @@ Pagination
 .pagination > .active > a,
 .pagination>li>span,
 .pagination>li.active>span {
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 	background-color: transparent;
 	border-radius: 0;
 }
@@ -3374,7 +3374,7 @@ Pagination
 .pagination .active a:hover,
 .pagination>li>span:hover,
 .pagination>li.active>span:hover{
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 	background-color: transparent;
 }
 .pagination > .disabled a {
@@ -3465,7 +3465,7 @@ Full Width Sections
 }
 
 .overlay-primary {
-	background: rgba(41, 143, 235,.7);
+	background: rgba(86, 63, 107,.7);
 	color: #fff;
 }
 
@@ -3537,7 +3537,7 @@ Plan Section
 	box-shadow: 0 6px 12px rgba(0,0,0,.015);
 }
 .plan:hover .plan-title {
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 	-webkit-transition: all 0.3s ease-out; transition: all 0.3s ease-out;
 }
 .plan-featured-overlay {
@@ -3548,7 +3548,7 @@ Plan Section
 	height: 0;
 	border-style: solid;
 	border-width: 0 50px 50px 0;
-	border-color: transparent rgb(41, 143, 235) transparent transparent;
+	border-color: transparent rgb(86, 63, 107) transparent transparent;
 }
 .plan-featured {
 	position: absolute;
@@ -3560,7 +3560,7 @@ Plan Section
 .plan-price {
 	font-family: "Montserrat", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 40px;
-	color: rgb(41, 143, 235);
+	color: rgb(86, 63, 107);
 	margin-bottom: 20px;
 }
 
