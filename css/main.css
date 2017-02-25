@@ -208,7 +208,7 @@ h6 {
 	font-weight: 900;
 	letter-spacing: 0.5px;
 	font-family: 'Poppins', sans-serif;
-	color: #3f4359;
+	color: #222;
 }
 h1 {
 	font-size: 28px;
@@ -1456,8 +1456,8 @@ Button
 .btn-default:hover,
 .btn-group.open .btn-default:focus {
 	color: #fff;
-	background-color: #121A22;
-	border-color: #121A22;
+	background-color: #211D34;
+	border-color: #211D34;
 }
 
 .btn-primary.btn-bordered{
@@ -1533,8 +1533,8 @@ Button
 
 .btn-blue {
 	color: #fff;
-	background-color: #3766c7;
-	border-color: #3766c7;
+	background-color: #53C4C7;
+	border-color: #53C4C7;
 }
 
 .btn-blue:focus,
@@ -1545,12 +1545,12 @@ Button
 .btn-group.open .btn-blue:focus,
 .btn-blue.btn-bordered:hover{
 	color: #fff;
-	background-color: #3766c7;
-	border-color: #3766c7;
+	background-color: #53C4C7;
+	border-color: #53C4C7;
 }
 
 .btn-blue.btn-bordered{
-	color: #3766c7;
+	color: #53C4C7;
 	background:none;
 	box-shadow: none;
 }
