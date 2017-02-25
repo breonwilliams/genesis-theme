@@ -3697,7 +3697,7 @@ Footer
 ================================== */
 
 .footer-section {
-	background: #590035;
+	background: #272727;
 	color: #fff;
 	font-size: 14px;
 	font-weight: 400;
@@ -3807,7 +3807,7 @@ Footer
 .copyright {
 	font-size: 14px;
 	padding: 10px 0;
-	background: #3C0023;
+	background: #1f1f1f;
 	color: #FFFFFF;
 }
 
@@ -3883,7 +3883,7 @@ Footer
 	content: '';
 	height: 3px;
 	width: 30%;
-	background: #770046;
+	background: #53C4C7;
 	margin: 20px 0 -2px 0;
 	display: block;
 	position: relative;
