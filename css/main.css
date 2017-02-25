@@ -1456,8 +1456,8 @@ Button
 .btn-default:hover,
 .btn-group.open .btn-default:focus {
 	color: #fff;
-	background-color: #211D34;
-	border-color: #211D34;
+	background-color: #3C0023;
+	border-color: #3C0023;
 }
 
 .btn-primary.btn-bordered{
